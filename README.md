@@ -1,4 +1,4 @@
-# AgenticRAG - Intelligent Retrieval-Augmented Generation
+# AgenticRAG - Using LangGraph
 
 A powerful **Agentic RAG (Retrieval-Augmented Generation)** system that combines **document retrieval, LLM reasoning, and agent-like decision-making** to provide accurate and context-aware responses.  
 
@@ -11,7 +11,7 @@ Developed by: **Manan Sharma - Gen AI Data Scientist**
 - 🧠 **Agentic Flow**: Uses decision edges (grade, rewrite, generate) for intelligent control flow  
 - 🔍 **Search Integration**: Extend responses with web search for real-time knowledge  
 - 💬 **Conversational Memory**: Maintains session history for contextual answers  
-- ⚡ **LLM Orchestration**: Powered by **LangChain**, **Groq LLMs**, and **HuggingFace embeddings**  
+- ⚡ **LLM Orchestration**: Powered by **LangGraph**, **Groq LLMs**, and **HuggingFace embeddings**  
 
 ---
 
