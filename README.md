@@ -2,7 +2,7 @@
 
 A powerful **Agentic RAG (Retrieval-Augmented Generation)** system that combines **document retrieval, LLM reasoning, and agent-like decision-making** to provide accurate and context-aware responses.  
 
-Developed by: **Manan Sharma - Gen AI Data Scientist**  
+  
 
 ---
 
